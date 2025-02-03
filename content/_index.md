@@ -40,18 +40,14 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "1M+"
+        - statistic: "500+"
           description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
+            Clientes satisfechos  
+            en nuestra trayectoria
+        - statistic: "50+"
           description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
+            Edificios protegidos por 
+            nuestro servicio 7/24
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
