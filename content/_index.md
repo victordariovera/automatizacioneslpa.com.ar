@@ -35,7 +35,7 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: lito3.png
-          image_size = "contain" 
+          image_size: "contain" 
           #filters:
           #  brightness: 0.5
   - block: stats
@@ -47,8 +47,7 @@ sections:
             en nuestra trayectoria
         - statistic: "50+"
           description: |
-            Edificios protegidos por 
-            nuestro servicio 7/24
+            Edificios protegidos 7/24
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
