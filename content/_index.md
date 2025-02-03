@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'LPA Automatizaciones'
 date: 2023-10-24
 type: landing
 
@@ -10,20 +10,20 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Automatizaciones LPA
+      text: Soluciones Integrales de automatizacion en edificios
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Mandanos un Whatsapp!
+        url: https://wa.me/+5491132929892?text=Hola!%20Vi%20tu contacto%20en%20la%20web%20www.automatizacioneslpa.com.ar%20y%20queria%20hacer%20una%20consulta!
         icon: rocket-launch
-      secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
-      announcement:
-        text: "Announcing the release of version 1."
-        link:
-          text: "Read more"
-          url: "/blog/"
+      #secondary_action:
+      #  text: +250 clientes satisfechos!
+      #  url: https://docs.hugoblox.com
+      #announcement:
+      #  text: "Announcing the release of version 1."
+      #  link:
+      #    text: "Read more"
+      #    url: "/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -34,9 +34,9 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: bg-triangles.svg
-          filters:
-            brightness: 0.5
+          filename: lito.png
+          #filters:
+          #  brightness: 0.5
   - block: stats
     content:
       items:
