@@ -1,0 +1,9 @@
+[params]
+  # Deshabilitar características que podrían estar causando el problema
+  features = {backlinks = false}
+
+[module]
+  [[module.imports]]
+    path = "github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind"
+    # Especificar una versión compatible
+    version = "v0.3.1"
