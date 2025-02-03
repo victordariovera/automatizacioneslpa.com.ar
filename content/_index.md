@@ -35,8 +35,8 @@ sections:
         image:
           # Add your image background to `assets/media/`.
           filename: lito.png
-          #filters:
-          #  brightness: 0.5
+          filters:
+            brightness: 0.5
   - block: stats
     content:
       items:
