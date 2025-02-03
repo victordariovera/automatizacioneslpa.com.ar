@@ -16,6 +16,7 @@ sections:
         text: Mandanos un Whatsapp!
         url: https://wa.me/+5491132929892?text=Hola!%20Vi%20tu contacto%20en%20la%20web%20www.automatizacioneslpa.com.ar%20y%20queria%20hacer%20una%20consulta!
         icon: whatsapp
+        color: green
       #secondary_action:
       #  text: +250 clientes satisfechos!
       #  url: https://docs.hugoblox.com
